@@ -1,6 +1,0 @@
-__pycache__/
-*.py[cod]
-.venv/
-.DS_Store
-result.csv
-my_result.csv
